@@ -1,5 +1,11 @@
-// test css
+
 body {
-	background-color: red;
-	font-family: verdana;
+	background-color: SlateGray;
+	font-family: arial;
+	color: white;
+
+}
+
+h1 {
+	color: yellow;
 }
